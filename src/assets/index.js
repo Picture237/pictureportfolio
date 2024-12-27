@@ -49,6 +49,8 @@ import movie from './projects/movie-metro.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
 import stellar from './company/stellar.png';
+import emeraog from './company/emera_og.jpg';
+import septeo from './company/septeo.png';
 
 export {
   bwmap,
@@ -100,4 +102,6 @@ export {
   ansible,
   python,
   stellar,
+  emeraog,
+  septeo,
 };

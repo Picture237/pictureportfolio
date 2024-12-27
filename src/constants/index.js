@@ -12,7 +12,7 @@ import {
   tailwind,
   nodejs,
   git,
-  figma,
+  septeo,
   docker,
   postgresql,
   python,
@@ -24,7 +24,7 @@ import {
   terraform,
   coverhunt,
   dcc,
-  kelhel,
+  emeraog,
   microverse,
   ansible,
   stellar,
@@ -64,7 +64,6 @@ const services = [
     icon: frontend,
   },
 ];
-
 
 const technologies = [
   {
@@ -128,11 +127,18 @@ const technologies = [
 
 const experiences = [
   {
+    title: 'DevOps Engineer',
+    company_name: 'Septeo',
+    icon: septeo,
+    iconBg: '#333333',
+    date: 'July 2024 - Present',
+  },
+  {
     title: 'DevOps Engineer Specialist',
     company_name: 'Emera Inc',
-    icon: coverhunt,
+    icon: emeraog,
     iconBg: '#333333',
-    date: 'June 2021 - Present',
+    date: 'June 2021 - July 2024',
   },
   {
     title: 'Azure Cloud Engineer Specialist',
